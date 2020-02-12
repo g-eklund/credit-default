@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.env/
+*.zip
+data/
+env/
+venv/
